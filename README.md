@@ -1,2 +1,3 @@
 # Inheritance-and-polymorphism
-Graph of nodes using templates and class inheritance,
+LabGui3:    Graph of nodes using templates and class inheritance.
+ReversiHex: Reversi game using an hexagonal board.
